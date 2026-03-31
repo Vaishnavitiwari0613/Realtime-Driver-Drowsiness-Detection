@@ -1,9 +1,4 @@
-# Realtime-Driver-Drowsiness-Detection
-Here is your **README.md without emojis**, clean and professional:
-
----
-
-# Driver Drowsiness Detection System
+# Realtime-Driver-Drowsiness Detection System
 
 ## Overview
 
